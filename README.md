@@ -1,4 +1,3 @@
 # hello_world
-a repository for fun
+a remote repository for expriments (nothing here, sadly cannot be private without membership)
 
-On a new branch 'readme-e', I want to test how branch works.
